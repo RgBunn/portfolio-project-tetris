@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(/assets/body-bg.jpg);
+    background-image: url(/portfolio-project-tetris/assets/body-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -49,7 +49,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/assets/pause-overlay.jpg);
+    background-image: url(/portfolio-project-tetris/assets/pause-overlay.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ body {
 .modal {
     margin: auto;
     width: 600px;
-    background-image: url(/assets/modal-bg.jpg);
+    background-image: url(/portfolio-project-tetris/assets/modal-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -355,4 +355,4 @@ body {
     }
 }
 
-/*# sourceMappingURL=0d58d3efa58b0abf7293-main.css.map*/
+/*# sourceMappingURL=b527c0423cf54249ccfa-main.css.map*/
