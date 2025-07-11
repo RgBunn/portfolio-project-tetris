@@ -5,5 +5,4 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "ArrowRight") currentTetromino.moveRight();
   if (e.key === "Enter") currentTetromino.rotate();
   if (e.key === "ArrowDown") currentTetromino.moveDown();
-  console.log(e.key);
 });
