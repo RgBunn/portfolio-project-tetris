@@ -55,12 +55,12 @@ export function showLowScoreImage() {
   const lowScoreMessage = document.createElement("p");
   lowScoreMessage.innerHTML = "Almost legendary! Try again!";
   lowScoreMessage.classList.add("low-score-message");
-  resultImage.src = "../images/oops.png";
+  resultImage.src = "images/oops.png";
   resultImageContainer.append(resultImage, lowScoreMessage);
 }
 
 export function showHighScoreImage() {
-  resultImage.src = "../images/success_name-submitted.png";
+  resultImage.src = "images/success_name-submitted.png";
   resultImageContainer.appendChild(resultImage);
 }
 
